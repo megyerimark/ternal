@@ -1,5 +1,14 @@
 
 
+/*
+* File: App.java
+* Author: Megyeri MĂˇrk	
+* Copyright: 2022, Megyeri MĂˇrk
+* Group: Szoft 1/N
+* Date: 2022-02-15
+* Github: https://github.com/megyerimark/
+* Licenc: GNU GPL
+*/
 
 
 
