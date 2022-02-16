@@ -1,8 +1,13 @@
+
+
+
+
+
 import java.util.Scanner;
 
 class App{
 	public static void main (String[] args){
-		
+		System.out.println("Megyeri Mark , Szoft I N ");
 		Scanner sc = new Scanner(System.in);
 		System.out.print("Szam: ");
 		
